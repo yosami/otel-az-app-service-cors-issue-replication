@@ -1,0 +1,6 @@
+@HoneycombPoC_HostAddress = http://localhost:5247
+
+GET {{HoneycombPoC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
